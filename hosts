@@ -1,5 +1,5 @@
 # Go Hosts
-# 2017-03-12 02:00:39
+# 2017-03-12 03:44:14
 
 
 127.0.0.1	localhost
@@ -7956,18 +7956,26 @@
 151.101.64.84	blog.pinterest.com
 151.101.64.84	pinterest.com
 151.101.64.84	www.pinterest.com
-23.212.99.185	s-media-cache-ak0.pinimg.com
-23.212.99.185	s.pinimg.com
+151.101.64.84	s-media-cache-ak0.pinimg.com
+151.101.64.84	s.pinimg.com
+151.101.64.84	i.pinimg.com
 151.101.64.84	trk.pinterest.com
 151.101.64.84	in.pinterest.com
-68.232.44.118 s-passets.pinimg.com
-68.232.44.129 passets-ec.pinterest.com
-61.19.12.16 passets-ak.pinterest.com
-68.232.44.253 media-cache-ec0.pinimg.com
-42.99.128.171 media-cache-ak0.pinimg.com
-151.101.64.84 api.pinterest.com
-151.101.64.84 passets-cdn.pinterest.com
-35.167.147.170 post.pinterest.com
+151.101.64.84	pin.it
+151.101.64.84	help.pinterest.com
+151.101.64.84	commerce-prodtest.pinterest.com
+151.101.64.84   api.pinterest.com
+151.101.64.84   commerce.pinterest.com
+151.101.64.84   staging-commerce.pinterest.com
+151.101.64.84   api-ming.pinterdev.com
+151.101.64.84   s-passets.pinimg.com
+151.101.64.84   passets-ec.pinterest.com
+151.101.64.84   passets-ak.pinterest.com
+151.101.64.84   media-cache-ec0.pinimg.com
+151.101.64.84   media-cache-ak0.pinimg.com
+151.101.64.84   passets-cdn.pinterest.com
+151.101.64.84   post.pinterest.com
+157.240.11.17   www.accountkit.com
 52.200.150.15 www.tapatalk.com
 168.61.42.209 rss-spider.tapatalk.com
 40.76.222.184 rss.tapatalk.com
