@@ -14,5 +14,8 @@
 #### Added
 * Pinterest, Ingress, Twitch, Amazon, WordPress, Xboxlive
 
-
+## Thanks
+*    [racaljk](https://github.com/racaljk/hosts)
+*    [sy618](https://github.com/sy618/hosts)
+*    [vokins](https://github.com/vokins/yhosts)
 
