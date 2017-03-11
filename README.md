@@ -9,7 +9,7 @@
 ## Update log
 ### 78/2017-3-12 03:16:46
 #### Optimize 
-* Google, YouTube, Google Play, Google Docs, Google Map, Yahoo, W3schools ...
+* Google, YouTube, Google Play, Google Docs, Google Map, Yahoo, W3schools ...  
 #### Added
 * Pinterest, Ingress, Twitch, Amazon, WordPress, Xboxlive
 
