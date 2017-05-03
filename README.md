@@ -3,7 +3,7 @@
 
 
 ## Download APK
-*    [Google Play](https://play.google.com/store/apps/details?id=com.lerist.ghosts)
+*    [Google Play](https://play.google.com/store/apps/details?id=com.lerist.go_hosts)
 *    [Fir.im](https://fir.im/gohosts)
 
 ## Update log
@@ -30,7 +30,7 @@
 *    [vokins](https://github.com/vokins/yhosts)
 
 ## License
-```groovy
+```
 The MIT License (MIT)
 
 Copyright  © 2017, Lerist
