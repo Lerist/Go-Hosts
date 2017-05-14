@@ -7,6 +7,11 @@
 *    [Fir.im](https://fir.im/gohosts)
 
 ## Update log
+### 104/2017-5-14 22:42:25
+#### Optimize 
+* Google, YouTube, Twitch, Dropbox
+#### Fix 
+* Facebook 视频  
 ### 100/2017-5-4 01:36:25
 #### Optimize 
 * Tumblr
