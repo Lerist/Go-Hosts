@@ -1,33 +1,9 @@
 ## Support site
 *Google, Google Play, YouTube, Gamil, Facebook, Twitter, Instagram, Tumblr, Wikipedia, Yahoo, Telegram(WEB), Dropbox, Flipboard, Mage, Line, Pinterest, W3schools, Ingress, Twitch, SoundCloud, Xboxlive, WordPress, Tapatalk, Kobo, Vimeo, Nytimes, Issuu, Tor, DuckDuckGo, Imgur, Pcbeta ...*
 
-
 ## Download APK
 *    [Google Play](https://play.google.com/store/apps/details?id=com.lerist.go_hosts)
 *    [Fir.im](https://fir.im/gohosts)
-
-## Update log
-### 104/2017-5-14 22:42:25
-#### Optimize 
-* Google, YouTube, Twitch, Dropbox
-#### Fix 
-* Facebook 视频  
-### 100/2017-5-4 01:36:25
-#### Optimize 
-* Tumblr
-#### Fix 
-* Facebook  
-### 86/2017-3-31 22:48:23
-#### Optimize 
-* Google  
-#### Fix 
-* Facebook  
-### 78/2017-3-12 03:16:46
-#### Optimize 
-* Google, YouTube, Google Play, Google Docs, Google Map, Yahoo, W3schools   
-
-#### Added
-* Pinterest, Ingress, Twitch, Amazon, WordPress, Xboxlive
 
 ## Thanks
 *    [racaljk](https://github.com/racaljk/hosts)
