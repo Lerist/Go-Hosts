@@ -1,5 +1,5 @@
 ## Support site
-*Google, Google Play, YouTube, Gamil, Facebook, Twitter, Instagram, Tumblr, Wikipedia, Yahoo, Telegram(WEB), Dropbox, Flipboard, Mage, Line, Pinterest, W3schools, Ingress, Twitch, SoundCloud, Xboxlive, WordPress, Tapatalk, Kobo, Vimeo, Nytimes, Issuu, Tor, DuckDuckGo, Imgur, Pcbeta ...*
+*Google, Google Play, YouTube, Gamil, Facebook, Twitter, Instagram, Tumblr, Wikipedia, Yahoo, Telegram(WEB), Dropbox, Flipboard, Mage, Line, Pinterest, W3schools, Ingress, Twitch, SoundCloud, Xboxlive, WordPress, Tapatalk, Kobo, Vimeo, Nytimes, Issuu, Tor, DuckDuckGo, Imgur, Pcbeta, Pixiv ...*
 
 ## Download APK
 *    [Google Play](https://play.google.com/store/apps/details?id=com.lerist.go_hosts)
