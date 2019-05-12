@@ -3,6 +3,7 @@
 
 ## Download APK
 *    [Google Play](https://play.google.com/store/apps/details?id=com.lerist.go_hosts)
+*    [Pgyer](https://www.pgyer.com/gohosts)
 *    [Fir.im](https://fir.im/gohosts)
 
 ## Thanks
